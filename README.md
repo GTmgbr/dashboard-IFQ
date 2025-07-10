@@ -1,6 +1,7 @@
 # dashboard-IFQ
 
-📊 Análise de Dados Educacionais do IFQ
+📊 Análise de Dados Educacionais do IFQ:
+
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI com base em dados educacionais do Instituto de Física e Química (IFQ) da Universidade Federal de Itajubá, com o objetivo de analisar a atuação dos docentes, a distribuição de carga horária e os projetos de pesquisa registrados.
 
 🧩 Dados Utilizados:
