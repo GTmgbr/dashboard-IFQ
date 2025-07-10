@@ -8,13 +8,13 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI com base
 
 O projeto utiliza três fontes principais de dados, disponibilizadas em planilhas no formato .xlsx
 
-⮕Área de atuação dos docentes
+⮕Área de atuação dos docentes:
 Contém informações sobre os professores vinculados ao IFQ, incluindo nome, área de conhecimento e subárea de atuação.
 
-⮕Distribuição 2025.1
+⮕Distribuição 2025.1:
 Apresenta a carga horária dos docentes distribuída por modalidade de ensino: graduação, pós-graduação e EAD, segmentados por área (Física, Química e Linguagens).
 
-⮕Projetos de Pesquisa registrados
+⮕Projetos de Pesquisa registrados:
 Reúne informações sobre projetos de pesquisa cadastrados por docentes, com detalhes como data de início, financiador, status, instituto vinculado e equipe envolvida.
 
 📌 Objetivos do Dashboard:
