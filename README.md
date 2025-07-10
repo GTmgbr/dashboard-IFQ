@@ -25,6 +25,8 @@ Reúne informações sobre projetos de pesquisa cadastrados por docentes, com de
 
 ⮕Analisar os projetos de pesquisa por financiador
 
+⮕Realizar comparativos do IFQ com os demais institutos e com a Universidade no geral
+
 ⮕Explorar a distribuição da carga horária docente por tipo de ensino
 
 ⮕Relacionar os dados de atuação docente com os projetos realizados, promovendo visões cruzadas entre área de conhecimento e produtividade científica
