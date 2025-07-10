@@ -1,6 +1,6 @@
 # dashboard-IFQ
 
-![Image](https://github.com/user-attachments/assets/3ed2bdd8-6d63-4450-a0d7-9da3b26c9028)
+![Image](https://github.com/user-attachments/assets/05bce4b4-c958-4045-83b0-353a5f9799cb)
 
 📊 Análise de Dados Educacionais:
 
