@@ -34,5 +34,6 @@ Reúne informações sobre projetos de pesquisa cadastrados por docentes, com de
 ⮕DAX e Power Query para criação de colunas calculadas, filtros e tratamento de dados
 
 📚 Observações:
+
 Este projeto tem caráter acadêmico e foi desenvolvido como parte de um estudo de análise de dados públicos educacionais.
 
